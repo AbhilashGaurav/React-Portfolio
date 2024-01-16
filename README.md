@@ -1,3 +1,7 @@
+# How it looks like
+![Picture1](https://github.com/AbhilashGaurav/React-Portfolio/assets/84313712/d2b38246-fa66-48b3-bd2f-d20e9a40246e)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
